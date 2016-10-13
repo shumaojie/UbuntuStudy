@@ -11,7 +11,15 @@ https://ubuntu-mate.org/raspberry-pi/ubuntu-mate-16.04-desktop-armhf-raspberry-p
 8. 主题包的配置。首n选项->外观->MATE Tweak. 在界面中面板选择Cuprtino
 9. 重启系统，才能进行网络配置。在右上角出现的无线符号选择相对应的无线网。
 10. 在命令行中执行sudo apt-get update 
-11. 在命令行中执行sudo apt-get upgrade
+11. 在命令行中执行sudo apt-get upgrade  （需要花费较长时间）
+12. 重启系统
+
+13. 安装raspi-config 进行配置。
+14. 安装中文输入法
+15. 
+
+
+
 
 
 
