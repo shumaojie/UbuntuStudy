@@ -16,7 +16,9 @@ https://ubuntu-mate.org/raspberry-pi/ubuntu-mate-16.04-desktop-armhf-raspberry-p
 
 13. 安装raspi-config 进行配置。
 14. 安装中文输入法
-15. 
+15. 安装means配置。
+16. 把无线当作热点进行配置。
+
 
 
 
@@ -42,6 +44,5 @@ https://ubuntu-mate.org/raspberry-pi/ubuntu-mate-16.04-desktop-armhf-raspberry-p
 
 ##FAQ##
 
-2. 安装系统技巧
-3. 设置代理技巧
+
 
