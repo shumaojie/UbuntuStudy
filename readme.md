@@ -13,8 +13,8 @@ https://ubuntu-mate.org/raspberry-pi/ubuntu-mate-16.04-desktop-armhf-raspberry-p
 10. 在命令行中执行sudo apt-get update 
 11. 在命令行中执行sudo apt-get upgrade  （需要花费较长时间）
 12. 重启系统
-
-13. 安装raspi-config 进行配置。
+13. 安装raspi-config 进行配置。sudo apt-get install raspi-config
+14. 进行扩容
 14. 安装中文输入法
 15. 安装means配置。
 16. 把无线当作热点进行配置。
