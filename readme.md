@@ -15,7 +15,8 @@ https://ubuntu-mate.org/raspberry-pi/ubuntu-mate-16.04-desktop-armhf-raspberry-p
 12. 重启系统
 13. 安装raspi-config 进行配置。sudo apt-get install raspi-config
 14. 进行扩容
-14. 安装中文输入法
+15. 配置远程登录功能  sudo apt-get install xrdp
+14. 安装sudo apt-get install git
 15. 安装means配置。
 16. 把无线当作热点进行配置。
 
