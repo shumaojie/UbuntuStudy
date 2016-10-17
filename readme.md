@@ -25,10 +25,12 @@ https://ubuntu-mate.org/raspberry-pi/ubuntu-mate-16.04-desktop-armhf-raspberry-p
 
 
 
-
 ##常用指令##
 1. sudo  apt-get  update:更新软件安装源
 2. sudo  apt-get  upgrade:系统升级
+3. 查看文本 pluma ***.config
+4. 键盘打开命令行  ctr+alt+t
+
 
 
 
