@@ -17,7 +17,7 @@ https://ubuntu-mate.org/raspberry-pi/ubuntu-mate-16.04-desktop-armhf-raspberry-p
 14. 进行扩容
 15. 配置远程登录功能  sudo apt-get install xrdp
 14. 安装sudo apt-get install git
-15. 安装means配置。
+15. 配置ftp
 16. 把无线当作热点进行配置。
 
 
@@ -30,6 +30,11 @@ https://ubuntu-mate.org/raspberry-pi/ubuntu-mate-16.04-desktop-armhf-raspberry-p
 2. sudo  apt-get  upgrade:系统升级
 3. 查看文本 pluma ***.config
 4. 键盘打开命令行  ctr+alt+t
+5. 结束当前的命令 ctr+c
+6. 强制删除  sudo rm -Rf ××
+7. 修改文件属性   chmod 777 **
+
+
 
 
 
